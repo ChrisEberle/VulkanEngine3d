@@ -1,9 +1,6 @@
 # VulkanEngine3d
   This project aims to create a 3d platform for building 3d applications
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
-
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
