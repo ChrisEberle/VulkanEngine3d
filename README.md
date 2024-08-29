@@ -3,9 +3,8 @@
 
 ## Getting Started
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+![Screenshot 2024-08-17 142107](https://github.com/user-attachments/assets/88837737-eadd-4f10-842e-610a5f36222c)
+
 
 ### Prerequisites
 
